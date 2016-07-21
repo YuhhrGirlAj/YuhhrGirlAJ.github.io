@@ -1,0 +1,37 @@
+
+p{
+  color:white;
+  font-size: 20pt;
+  font-family:fantasy;
+
+}
+body{
+  color:darkred;
+  font-size: 14pt;
+  font-family:inherit;
+  background-image: url("Harley.gif");
+  background-size: auto;
+}
+
+
+h1 {
+  border-top: 13px dotted purple;
+}
+
+#border-left{
+display:block;
+padding-left: 30px;
+border-left: 13px double green;
+height:100vh;
+padding-right:30px;
+border-right: 13px dashed rgb(255,56,112);
+height: 100vh;
+padding-bottom: 30px;
+border-bottom: 13px solid rgb(61,128,255);
+
+}
+
+li{
+  display:inline-block;
+
+}
